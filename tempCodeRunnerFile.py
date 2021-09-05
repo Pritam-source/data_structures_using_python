@@ -1,0 +1,1 @@
+self.graph_arr[dst][src]=1
